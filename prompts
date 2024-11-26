@@ -1,0 +1,32 @@
+git clone https://github.com/your-username/Socratic-Method-Prompts.git
+cd Socratic-Method-Prompts
+echo "# Socratic Method Prompts" > README.md
+git add .
+git commit -m "Initial commit with schematic and prompts"
+git push origin main
+# Socratic Method Prompts
+
+A structured repository of Socratic method schematics and prompts for critical thinking, problem-solving, and exploring truth.
+
+## Schematic Breakdown
+1. **Start with a Question**: Define the topic or problem.
+2. **Clarify Definitions**: Ensure understanding of key concepts.
+3. **Examine Assumptions**: Surface and question beliefs.
+4. **Explore Implications**: Test logical outcomes.
+5. **Challenge Contradictions**: Find inconsistencies.
+6. **Refine the Hypothesis**: Reframe for truth.
+7. **Seek Broader Agreement**: Confirm consensus.
+
+## Prompts
+
+### General Prompts
+- *What is the main problem or idea we are exploring?*
+- *What assumptions are we making about this issue?*
+
+### Educational Prompts
+- *How would you define [concept]?*
+- *What are the logical outcomes of this belief?*
+
+---
+
+Contributions are welcome! Feel free to open a pull request to add more prompts.
